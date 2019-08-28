@@ -1,4 +1,4 @@
-# Imagenette/Imagewoof: Resizing Images Twice Decreases Accuracy
+# Imagenette/Imagewoof: Resizing Images in Two Steps Decreases Accuracy
 
 Based on a discovery by Less Wright (https://github.com/lessw2020)
 
