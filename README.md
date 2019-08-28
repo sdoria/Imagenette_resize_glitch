@@ -1,4 +1,4 @@
-# Imagenette Resize "Glitch"
+# Imagenette: Resizing Images Twice Decreases Accuracy
 
 Based on a discovery by Less Wright (https://github.com/lessw2020)
 
